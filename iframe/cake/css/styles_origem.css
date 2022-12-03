@@ -34,7 +34,6 @@ h1, p {
 .container {
     max-width: 85%;
     margin: 0 auto;
-    max-height: 100vh;
 }
 
 .row {
@@ -161,7 +160,7 @@ nav a:hover {
     .toggleMenu {
         position: absolute;
         right: 20px;
-        background-image: url(../img/navbar.svg);
+        background-image: url(./nav.svg);
         background-repeat: no-repeat;
         background-position: center;
         background-color: #f8a9ad;;
